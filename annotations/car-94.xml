@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labelImg</folder>
+	<filename>94.jpg</filename>
+	<path>/Users/kohkenghong/Desktop/labelImg/94.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>304</width>
+		<height>166</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>50</ymin>
+			<xmax>291</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labelImg</folder>
+	<filename>bicycle-59.jpg</filename>
+	<path>/Users/kohkenghong/Desktop/labelImg/bicycle-59.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>342</width>
+		<height>147</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>4</ymin>
+			<xmax>300</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+</annotation>
